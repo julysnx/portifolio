@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  Hello world
+  <p>Quem eu sou?
+    Olá!
+    Me chamo Julia, tenho 17 anos.
+    Estou terminando o ensino médio, sou vestibulanda e cristã.
+    O que eu gosto de fazer?
+    Ler (romance), leio a bíblia também.
+    Cozinhar (bolo e receitas novas).
+    Ir à praia.
+    tocar violão/ukulele.
+    Cantar (só por diversão mesmo).
+    Ficar com a minha família e minha gatinha.
+    Comprar roupa.
+    Tomar café com a minha mãe e avó.
+    Jogar videogame (resident evil, the last of us).
+    O que eu quero da vida?
+    Amar Jesus.
+    Cursar psicologia.
+    Terminar a escola.
+    Ir bem nas provas.
+    Fazer novas amizades.
+    Aprender a fazer pestana no violão.
+    Ir para Itália.
+    Viver:)
+  </p>
+
+  <div class="columns">
+    <div class="column">
+      <h3>Músicas</h3>
+      <ul>
+        <li></li>
+        <p> Gospel nacional </p>
+        <li></li>
+        <p> Laranjeiras - José Jr</p>
+        <p> Emaús - Morada </p>
+        <p> Isaías 6 - Morada </p>
+        <p> Voltemos ao início - Som do reino </p>
+        <p> É tudo sobre você - Morada </p>
+      </ul>
+    </div>
+
+    <div class="column">
+      <h3>Livros</h3>
+      <ul>
+        <li></li>
+        <p> Romance </p>
+        <li></li>
+        <p> Melhor do que nos filmes - Lynn Painter</p>
+        <p> O verão que mudou minha vida - Jenny Han </p>
+        <p> Amor e Gelato - Jenna Evans</p>
+        <p> Táticas do amor - Sarah Adams </p>
+        <p> Fazendo meu filme - Paula Pimenta </p>
+      </ul>
+    </div>
+
+    <div class="column">
+      <h3>Filmes</h3>
+      <ul>
+        <li></li>
+        <p> Romance </p>
+        <li></li>
+        <p> Eduardo e Mônica </p>
+        <p> Um lugar chamado Notting Hill </p>
+        <p> Para todos os garotos que já amei </p>
+        <p> Questão de tempo</p>
+        <p> Ela é demais </p>
+        
+      </ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
